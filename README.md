@@ -2,7 +2,7 @@
 
 This is a simple **Login / Sign Up webpage** created using **HTML**, **CSS**, and **JavaScript**.
 
----
+--
 
 ## Features
 - Sign Up with username and password (stored in browser localStorage)
